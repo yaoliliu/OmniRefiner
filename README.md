@@ -27,4 +27,4 @@
 <text>Compared with the state-of-the-art multi-image editing methods, our approach achieves not only faithful reconstruction of the original image in reference–repair tasks, but also excellent performance in various reconstruction scenarios including text, patterns, facial details, and object details. In contrast, existing methods often fail to remain faithful to the original image during repair or are unable to recover text and fine details.</text>
 <img src='./assets/more_res.png' width='100%' />
 <text>Additional restoration results show that our method is highly effective in both detail-guided refinement and detail-guided replacement.</text>
-</div>
+</div>  
