@@ -1,7 +1,8 @@
 <div align="center">
 <h1>OmniRefiner: Reinforcement-Guided Local Diffusion Refinement</h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2505.24417-red)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2511.19990-red)](http://arxiv.org/abs/2511.19990
+)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/yaoliliu/OmniRefiner)
 <!-- [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/lllrrnn/EasyText)
 [![HuggingFace](https://img.shields.io/badge/🤗-huggingface--dataset-yellow)](https://huggingface.co/datasets/lllrrnn/EasyText) -->
